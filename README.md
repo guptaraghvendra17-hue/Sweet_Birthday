@@ -20,15 +20,15 @@ Available both as a **responsive interactive web reel** and as a **standalone, 1
 ## 📱 Standalone Android App (APK)
 
 <p align="center">
-  <a href="https://github.com/guptaraghvendra17-hue/Sweet_Birthday/raw/main/Sweet_Birthday.apk">
+  <a href="https://github.com/guptaraghvendra17-hue/Sweet_Birthday/releases/download/v1.0.1/Sweet_Birthday.apk">
     <img src="https://img.shields.io/badge/⬇️_CLICK_HERE_TO_DOWNLOAD-Sweet__Birthday.apk_(5.9_MB)-FF1493?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
   </a>
 </p>
 
 ### 🔗 Direct Download Links:
-- 🚀 **[Direct Download Link (Instant 1-Click)](https://github.com/guptaraghvendra17-hue/Sweet_Birthday/raw/main/Sweet_Birthday.apk)**
-- 🌐 **[Alternative Mirror Link (Raw CDN)](https://raw.githubusercontent.com/guptaraghvendra17-hue/Sweet_Birthday/main/Sweet_Birthday.apk)**
-- 🏷️ **[Releases & Tags (v1.0)](https://github.com/guptaraghvendra17-hue/Sweet_Birthday/releases/tag/v1.0)**
+- 🚀 **[Official GitHub Release Download (Fastest)](https://github.com/guptaraghvendra17-hue/Sweet_Birthday/releases/download/v1.0.1/Sweet_Birthday.apk)**
+- 🌐 **[Direct Raw CDN Link](https://github.com/guptaraghvendra17-hue/Sweet_Birthday/raw/main/Sweet_Birthday.apk)**
+- 🏷️ **[All Releases](https://github.com/guptaraghvendra17-hue/Sweet_Birthday/releases)**
 
 - **App Name**: `Sweet Birthday ❤️`
 - **Package**: `com.raghvendra.sweetbirthday`
