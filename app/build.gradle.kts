@@ -8,8 +8,8 @@ android {
 
     defaultConfig {
         applicationId = "com.raghvendra.sweetbirthday"
-        minSdk = 24
-        targetSdk = 36
+        minSdk = 21
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
     }
