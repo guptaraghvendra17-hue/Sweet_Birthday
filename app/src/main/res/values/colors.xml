@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pink_primary">#FBA5B8</color>
+    <color name="pink_dark">#F07493</color>
+    <color name="pink_light">#FFDDE6</color>
+    <color name="wine_text">#5D1029</color>
+    <color name="white">#FFFFFF</color>
+</resources>
+
